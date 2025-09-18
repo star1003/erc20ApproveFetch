@@ -6,7 +6,7 @@ import {
   LogField,
 } from "npm:@envio-dev/hypersync-client";
 import express, { NextFunction, Request, Response} from "npm:express@4.18.2";
-import { isAddress } from "viem";
+import { isAddress } from "npm:viem";
 // import cors from 'npm:cors';
 // import { readFileSync } from 'npm:fs@^0.0.1-security'
 

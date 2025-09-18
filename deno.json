@@ -5,6 +5,7 @@
   "imports": {
     "@envio-dev/hypersync-client": "npm:@envio-dev/hypersync-client@^0.6.6",
     "@std/assert": "jsr:@std/assert@1",
-    "cors": "npm:cors@^2.8.5"
+    "cors": "npm:cors@^2.8.5",
+    "viem": "npm:viem@^2.37.6"
   }
 }
